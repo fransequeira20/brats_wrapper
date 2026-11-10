@@ -1,7 +1,8 @@
 """
 ######### Python wrapper for the Broadband Radio Astronomy Tools (BRATS) ########
 
-This is a updated version of the Python wrapper for BRATS made by Jeremy Harwood.
+This is updated wrapper based on the Python wrapper for BRATS made by 
+Jeremy Harwood.
 
 This early version currently only supports the running of command files in which 
 BRATS commands, tasks, and parameters should be placed in the order by which they
